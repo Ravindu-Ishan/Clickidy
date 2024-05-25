@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">poptheballGame</string>
+    <string name="title">CLICKIDY</string>
+    <string name="play">Play</string>
+    <string name="playAgain">Play again</string>
+    <string name="backToMenue">Return to Menue</string>
+    <string name="highScores">High Scores</string>
+    <string name="exit">Exit</string>
+    <string name="misses">Misses</string>
+    <string name="score">Score</string>
+    <string name="yourScore">Your Score</string>
+    <string name="gameover">Game Over !</string>
+    <string name="newHighScore">Congratulations! New High Score!</string>
+    <string name="previousHighScore">Last High Score</string>
+    <string name="back">Back</string>
+</resources>
